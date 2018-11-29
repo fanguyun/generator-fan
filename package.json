@@ -1,15 +1,16 @@
 {
   "name": "generator-fan",
-  "version": "0.0.0",
-  "description": "",
-  "homepage": "",
+  "version": "0.0.5",
+  "description": "yoman generator",
+  "homepage": "https://github.com/fanguyun214/generator-fan",
   "author": {
     "name": "fanguyun214",
     "email": "289696260@qq.com",
-    "url": ""
+    "url": "https://github.com/fanguyun214"
   },
   "files": [
-    "generators"
+    "app",
+    "router"
   ],
   "main": "generators/index.js",
   "keywords": [
